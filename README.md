@@ -56,5 +56,26 @@ Start the Client
   
 # Features
 
+### Authenticaton
+![](https://github.com/shrad059/chat-room/blob/main/screenshot/Screenshot%202023-01-13%20at%208.52.17%20PM.png)
 
+### Real Time Chatting with Typing indicators
+
+### One to One chat
+
+### Search Users
+
+### Create Group Chats
+
+### Notifications 
+
+### Add or Remove users from group
+
+### View Other user Profile
+
+## Made By
+
+- [@Piyush-eon](https://github.com/piyush-eon)
+
+  
   
