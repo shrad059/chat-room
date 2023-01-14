@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-https://shrad059.github.io/
+https://chat-app-shrad059.onrender.com/
 
 ## Run Locally
 
