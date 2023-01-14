@@ -55,27 +55,19 @@ Start the Client
 
   
 # Features
+### HomePage
+ ![](https://github.com/shrad059/chat-room/blob/main/screenshot/Screenshot%202023-01-13%20at%208.52.24%20PM.png)
 
 ### Authenticaton
 ![](https://github.com/shrad059/chat-room/blob/main/screenshot/Screenshot%202023-01-13%20at%208.52.17%20PM.png)
+![](https://github.com/shrad059/chat-room/blob/main/screenshot/Screenshot%202023-01-13%20at%208.52.32%20PM.png)
 
-### Real Time Chatting with Typing indicators
-
-### One to One chat
-
-### Search Users
-
-### Create Group Chats
-
-### Notifications 
-
-### Add or Remove users from group
-
-### View Other user Profile
+### Chat Room
+![](https://github.com/shrad059/chat-room/blob/main/screenshot/Screenshot%202023-01-13%20at%208.52.54%20PM.png)
 
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- Shraddha Singh
 
   
   
