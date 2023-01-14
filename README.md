@@ -63,7 +63,7 @@ Start the Client
 ![](https://github.com/shrad059/chat-room/blob/main/screenshot/Screenshot%202023-01-13%20at%208.52.32%20PM.png)
 
 ### Chat Room
-![](https://github.com/shrad059/chat-room/blob/main/screenshot/Screenshot%202023-01-13%20at%208.52.54%20PM.png)
+![](https://github.com/shrad059/chat-room/blob/main/screenshot/Screenshot%202023-01-13%20at%209.12.38%20PM.png)
 
 ## Made By
 
