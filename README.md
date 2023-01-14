@@ -67,7 +67,7 @@ Start the Client
 
 ## Made By
 
-- Shraddha Singh
+- Shraddha Singh (https://github.com/shrad059)
 
   
   
